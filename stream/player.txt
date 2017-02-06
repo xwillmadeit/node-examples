@@ -1,0 +1,20 @@
+{
+	"players": [
+		{
+			"name": "kobe",
+			"champions": 5
+		},
+		{
+			"name": "duncan",
+			"champions": 5
+		},
+		{
+			"name": "wade",
+			"champions": 3
+		},
+		{
+			"name": "james",
+			"champions": 3
+		}
+	]
+}
