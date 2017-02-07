@@ -1,1 +1,0 @@
-{"players":[{"name":"kobe","champions":5},{"name":"duncan","champions":5}]}
